@@ -1,0 +1,10 @@
+﻿#	实体表		
+#	Id		AssetName
+#	int		string
+#	实体编号	策划备注	资源名称
+	11	玩家1	PlayerDefault
+	12	玩家2	PlayerDude
+	13	玩家3	PlayerNinja
+	20	地图	MapGrid
+	21	长方块	LongMapGrid
+	30	指示器	Indicator

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleCollection>
+    <AssetBundles>
+      <AssetBundle Name="Animations" LoadType="0" Packed="False" />
+      <AssetBundle Name="Configs" LoadType="0" Packed="True" />
+      <AssetBundle Name="DataTables" LoadType="0" Packed="True" />
+      <AssetBundle Name="Entity" LoadType="0" Packed="True" />
+      <AssetBundle Name="Fonts" LoadType="0" Packed="True" />
+      <AssetBundle Name="Localization/Dictionaries" Variant="en-us" LoadType="0" Packed="True" />
+      <AssetBundle Name="Localization/Dictionaries" Variant="ko-kr" LoadType="0" Packed="True" />
+      <AssetBundle Name="Localization/Dictionaries" Variant="zh-cn" LoadType="0" Packed="True" />
+      <AssetBundle Name="Localization/Dictionaries" Variant="zh-tw" LoadType="0" Packed="True" />
+      <AssetBundle Name="Materials" LoadType="0" Packed="True" />
+      <AssetBundle Name="Scenes" LoadType="0" Packed="True" />
+      <AssetBundle Name="Shaders" LoadType="0" Packed="True" />
+      <AssetBundle Name="Textures" LoadType="0" Packed="True" />
+      <AssetBundle Name="UI/UIForms" LoadType="0" Packed="True" />
+    </AssetBundles>
+    <Assets>
+      <Asset Guid="01d14db9f60bc544f8b12ca570555fe4" AssetBundleName="DataTables" />
+      <Asset Guid="022a593db8f14b14f841fbb33dd72d32" AssetBundleName="DataTables" />
+      <Asset Guid="0b92c6113255c9d479faf240c6bac067" AssetBundleName="Materials" />
+      <Asset Guid="0c685a84f606d0042aa3713b00d2ade6" AssetBundleName="Materials" />
+      <Asset Guid="0f36fe7b35b544b4999bfc9daaffafd8" AssetBundleName="Shaders" />
+      <Asset Guid="1053b0070685be347ab58587156842dc" AssetBundleName="Localization/Dictionaries" AssetBundleVariant="zh-tw" />
+      <Asset Guid="14869ac0d4433f04db1704e39d03412e" AssetBundleName="Localization/Dictionaries" AssetBundleVariant="en-us" />
+      <Asset Guid="1c31336bbbab0574da58641c3de27f5e" AssetBundleName="Entity" />
+      <Asset Guid="1ff40d60cf905ac42ae3c06b91cb0916" AssetBundleName="DataTables" />
+      <Asset Guid="2b3acb907e8f17d4b8e64be976bca86d" AssetBundleName="UI/UIForms" />
+      <Asset Guid="35e9d4120d543a640a17b8024f141a0c" AssetBundleName="Materials" />
+      <Asset Guid="394b97434389143409ca1291f2f7a259" AssetBundleName="Textures" />
+      <Asset Guid="3dfa118584e6b984fa72c0be5ecc8fb7" AssetBundleName="DataTables" />
+      <Asset Guid="3e074a2ae3038e54c891c955493c96fd" AssetBundleName="DataTables" />
+      <Asset Guid="3f3b3f508a8fa4e45998b3c41d260cf0" AssetBundleName="Entity" />
+      <Asset Guid="3fe092dcbe1a9e2499b290f45efa3ba9" AssetBundleName="Materials" />
+      <Asset Guid="43cdbd03be8f5364a8be80252aff28d2" AssetBundleName="Entity" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" AssetBundleName="Configs" />
+      <Asset Guid="5b6b7b3529bbe4d49bc2f9770ba5ad1b" AssetBundleName="Textures" />
+      <Asset Guid="5ba41dc452b9ca44e917d8b8ab366fb0" AssetBundleName="Textures" />
+      <Asset Guid="5dbc8ee768a5b3f44a8fdb911d265e4a" AssetBundleName="Materials" />
+      <Asset Guid="5dcd89912e222bf4c87f76db4044bc5e" AssetBundleName="Localization/Dictionaries" AssetBundleVariant="ko-kr" />
+      <Asset Guid="5fbd14eeb3e83bc43a2e6932774e2ead" AssetBundleName="Animations" />
+      <Asset Guid="77cbb7c5404c10242ab59953e0746314" AssetBundleName="Fonts" />
+      <Asset Guid="7fd11dc5d29076d469d414dec2818f11" AssetBundleName="Configs" />
+      <Asset Guid="8186ff1f095a8124ba1dfadfd80e74f4" AssetBundleName="Textures" />
+      <Asset Guid="87996a15eb5c28343a74af769649b6f5" AssetBundleName="Materials" />
+      <Asset Guid="89e2bb43c2ee3744ea98b876253157ea" AssetBundleName="UI/UIForms" />
+      <Asset Guid="8cb8a606d747a2a4cb2a9c3f48954861" AssetBundleName="DataTables" />
+      <Asset Guid="8ed33f36299df3d4eaa5817c57de3e79" AssetBundleName="DataTables" />
+      <Asset Guid="92337fa90aaf37c43ac82d2c6edc43ac" AssetBundleName="DataTables" />
+      <Asset Guid="9284139ebf8be9e419a7c7ef2e5ed961" AssetBundleName="Materials" />
+      <Asset Guid="9a286e412bb167142982f7f6e3b314f7" AssetBundleName="Textures" />
+      <Asset Guid="9be2e1e45f4edd74c8764538ad306b78" AssetBundleName="Localization/Dictionaries" AssetBundleVariant="zh-cn" />
+      <Asset Guid="9d71ec0890b5785479a689cbea86488e" AssetBundleName="Materials" />
+      <Asset Guid="a40aa1ba35db7bb4b86cae07e1b1ab95" AssetBundleName="Entity" />
+      <Asset Guid="aa001332ebcb5994296fc3249b71212a" AssetBundleName="Entity" />
+      <Asset Guid="b4b4d88e5eac824459af7a9f190fb336" AssetBundleName="DataTables" />
+      <Asset Guid="b594a97b48c7aed419aed029fd99502e" AssetBundleName="DataTables" />
+      <Asset Guid="be780374429ff074f92956e8d34f3caa" AssetBundleName="Textures" />
+      <Asset Guid="bea39d4d0e3171946b0ac27c9760ea3f" AssetBundleName="Materials" />
+      <Asset Guid="c0b05b74ccbddee4fa55552fdeadd19c" AssetBundleName="Animations" />
+      <Asset Guid="cca81912de61bb249a00eaa0024afb3b" AssetBundleName="Textures" />
+      <Asset Guid="d3171abe77c013b4fb29aa55f37786f4" AssetBundleName="Textures" />
+      <Asset Guid="d66c6fa475438c04fbce457cc9dbe41f" AssetBundleName="DataTables" />
+      <Asset Guid="d85115292a4753a4db1b8acfc5015f38" AssetBundleName="Animations" />
+      <Asset Guid="da3a4d8101546b441bbe9e91aa7384af" AssetBundleName="Entity" />
+      <Asset Guid="dc19ef45f4687fe479a10f13f1177e15" AssetBundleName="Animations" />
+      <Asset Guid="ef91ca4fa02bf06488cbee9d7aa0c99a" AssetBundleName="Scenes" />
+      <Asset Guid="efb09d0dd26791f408b2a4c5933361a7" AssetBundleName="Materials" />
+      <Asset Guid="efbee393ebd95c34eafd8166e82a0184" AssetBundleName="DataTables" />
+      <Asset Guid="f19a0b55dca4fbd4ea0df218319683ef" AssetBundleName="Materials" />
+      <Asset Guid="f8275da19fcee744b83ed86f90f448f6" AssetBundleName="Entity" />
+      <Asset Guid="fcf3a2defa1c2104989a623f1f4483c3" AssetBundleName="Animations" />
+      <Asset Guid="fdba518d1d7619441a29c57e6c927e5c" AssetBundleName="Textures" />
+      <Asset Guid="ffab5206303b7c4439c1194bf5b73041" AssetBundleName="Scenes" />
+    </Assets>
+  </AssetBundleCollection>
+</UnityGameFramework>
